@@ -1,0 +1,9 @@
+D:\development\practice\XmlParser\XmlParser\bin\Debug\XmlParser.dll
+D:\development\practice\XmlParser\XmlParser\bin\Debug\XmlParser.pdb
+D:\development\practice\XmlParser\XmlParser\obj\Debug\XmlParser.dll
+D:\development\practice\XmlParser\XmlParser\obj\Debug\XmlParser.pdb
+D:\development\practice\XmlParser\XmlParser\obj\Debug\XmlParser.csprojResolveAssemblyReference.cache
+D:\development\practice\XmlService\XmlParser\bin\Debug\XmlParser.dll
+D:\development\practice\XmlService\XmlParser\bin\Debug\XmlParser.pdb
+D:\development\practice\XmlService\XmlParser\obj\Debug\XmlParser.dll
+D:\development\practice\XmlService\XmlParser\obj\Debug\XmlParser.pdb

@@ -1,0 +1,4 @@
+D:\development\practice\XmlService\HttpService\bin\Debug\HttpService.dll
+D:\development\practice\XmlService\HttpService\bin\Debug\HttpService.pdb
+D:\development\practice\XmlService\HttpService\obj\Debug\HttpService.dll
+D:\development\practice\XmlService\HttpService\obj\Debug\HttpService.pdb

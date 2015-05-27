@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchageRateService", "ExchangeRateService\ExchageRateService.csproj", "{AFCF9940-4D90-4DC6-AB60-98118521201A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeRateServiceTest", "ExchangeRateServiceTest\ExchangeRateServiceTest.csproj", "{2D98AB68-263D-45AD-BC52-E403E1C706AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpService", "HttpService\HttpService.csproj", "{0363DCC9-1FF4-429E-BC27-4F40D87701E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpServiceTest", "HttpServiceTest\HttpServiceTest.csproj", "{A911FDED-CE9A-4754-92FC-CC0197E57244}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutputProject", "OutputProject\OutputProject.csproj", "{76189342-30D1-403E-81D6-FFCD4C393402}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlParser", "XmlParser\XmlParser.csproj", "{614A74AB-2CD4-44AC-BB86-ADD1745BFB42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlParserTests", "XmlParserTests\XmlParserTests.csproj", "{D022DF76-666D-4C0B-B7C4-D3FC5F6B482B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFCF9940-4D90-4DC6-AB60-98118521201A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCF9940-4D90-4DC6-AB60-98118521201A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCF9940-4D90-4DC6-AB60-98118521201A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCF9940-4D90-4DC6-AB60-98118521201A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D98AB68-263D-45AD-BC52-E403E1C706AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D98AB68-263D-45AD-BC52-E403E1C706AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D98AB68-263D-45AD-BC52-E403E1C706AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D98AB68-263D-45AD-BC52-E403E1C706AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0363DCC9-1FF4-429E-BC27-4F40D87701E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0363DCC9-1FF4-429E-BC27-4F40D87701E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0363DCC9-1FF4-429E-BC27-4F40D87701E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0363DCC9-1FF4-429E-BC27-4F40D87701E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A911FDED-CE9A-4754-92FC-CC0197E57244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A911FDED-CE9A-4754-92FC-CC0197E57244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A911FDED-CE9A-4754-92FC-CC0197E57244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A911FDED-CE9A-4754-92FC-CC0197E57244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76189342-30D1-403E-81D6-FFCD4C393402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76189342-30D1-403E-81D6-FFCD4C393402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76189342-30D1-403E-81D6-FFCD4C393402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76189342-30D1-403E-81D6-FFCD4C393402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{614A74AB-2CD4-44AC-BB86-ADD1745BFB42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{614A74AB-2CD4-44AC-BB86-ADD1745BFB42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{614A74AB-2CD4-44AC-BB86-ADD1745BFB42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{614A74AB-2CD4-44AC-BB86-ADD1745BFB42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D022DF76-666D-4C0B-B7C4-D3FC5F6B482B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D022DF76-666D-4C0B-B7C4-D3FC5F6B482B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D022DF76-666D-4C0B-B7C4-D3FC5F6B482B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D022DF76-666D-4C0B-B7C4-D3FC5F6B482B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

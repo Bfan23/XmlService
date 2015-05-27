@@ -1,0 +1,16 @@
+D:\development\practice\XmlService\HttpServiceTest\HttpServiceTest\bin\Debug\HttpServiceTest.dll
+D:\development\practice\XmlService\HttpServiceTest\HttpServiceTest\bin\Debug\HttpServiceTest.pdb
+D:\development\practice\XmlService\HttpServiceTest\HttpServiceTest\bin\Debug\HttpService.dll
+D:\development\practice\XmlService\HttpServiceTest\HttpServiceTest\bin\Debug\nunit.framework.dll
+D:\development\practice\XmlService\HttpServiceTest\HttpServiceTest\bin\Debug\HttpService.pdb
+D:\development\practice\XmlService\HttpServiceTest\HttpServiceTest\bin\Debug\nunit.framework.xml
+D:\development\practice\XmlService\HttpServiceTest\HttpServiceTest\obj\Debug\HttpServiceTest.csprojResolveAssemblyReference.cache
+D:\development\practice\XmlService\HttpServiceTest\HttpServiceTest\obj\Debug\HttpServiceTest.dll
+D:\development\practice\XmlService\HttpServiceTest\HttpServiceTest\obj\Debug\HttpServiceTest.pdb
+D:\development\practice\XmlService\HttpServiceTest\obj\Debug\HttpServiceTest.csprojResolveAssemblyReference.cache
+D:\development\practice\XmlService\HttpServiceTest\obj\Debug\HttpServiceTest.dll
+D:\development\practice\XmlService\HttpServiceTest\obj\Debug\HttpServiceTest.pdb
+D:\development\practice\XmlService\HttpServiceTest\bin\Debug\HttpServiceTest.dll
+D:\development\practice\XmlService\HttpServiceTest\bin\Debug\HttpServiceTest.pdb
+D:\development\practice\XmlService\HttpServiceTest\bin\Debug\HttpService.dll
+D:\development\practice\XmlService\HttpServiceTest\bin\Debug\HttpService.pdb

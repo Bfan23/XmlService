@@ -1,0 +1,5 @@
+D:\development\practice\XmlService\HttpClient\HttpClient\bin\Debug\HttpClient.dll
+D:\development\practice\XmlService\HttpClient\HttpClient\bin\Debug\HttpClient.pdb
+D:\development\practice\XmlService\HttpClient\HttpClient\obj\Debug\HttpClient.csprojResolveAssemblyReference.cache
+D:\development\practice\XmlService\HttpClient\HttpClient\obj\Debug\HttpClient.dll
+D:\development\practice\XmlService\HttpClient\HttpClient\obj\Debug\HttpClient.pdb
