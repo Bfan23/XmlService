@@ -7,3 +7,4 @@ D:\development\practice\XmlService\XmlParser\bin\Debug\XmlParser.dll
 D:\development\practice\XmlService\XmlParser\bin\Debug\XmlParser.pdb
 D:\development\practice\XmlService\XmlParser\obj\Debug\XmlParser.dll
 D:\development\practice\XmlService\XmlParser\obj\Debug\XmlParser.pdb
+D:\development\practice\XmlService\XmlParser\obj\Debug\XmlParser.csprojResolveAssemblyReference.cache

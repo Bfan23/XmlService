@@ -1,0 +1,5 @@
+D:\development\practice\XmlService\MongoDBRep\bin\Debug\MongoDBRep.dll
+D:\development\practice\XmlService\MongoDBRep\bin\Debug\MongoDBRep.pdb
+D:\development\practice\XmlService\MongoDBRep\obj\Debug\MongoDBRep.csprojResolveAssemblyReference.cache
+D:\development\practice\XmlService\MongoDBRep\obj\Debug\MongoDBRep.dll
+D:\development\practice\XmlService\MongoDBRep\obj\Debug\MongoDBRep.pdb
